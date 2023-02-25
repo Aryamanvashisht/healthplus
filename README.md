@@ -1,4 +1,4 @@
-## Medisure - Healthcare Website
+## Health Plus - Healthcare Website
 
 ### Features
 
@@ -8,7 +8,6 @@ Users will able to:
 - After login the name will appear on header
 - see the services we provide
 - See the doctors and make appointment
-- animated 404 page.
 - Private route that can be accessed only after login
 
 ### Built with
@@ -19,8 +18,3 @@ Users will able to:
 - Bootstrap
 - HTML
 - CSS
-
-### Links
-
-- Live Site: [Medisure](https://medisure-healthcare.web.app/)
-- Code: [Github](https://github.com/arifulsajib/Medisure-healthcare-website)
